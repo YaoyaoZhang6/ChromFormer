@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Training outputs and caches
+outputs/
+
+# Large processed datasets are kept local and should not be versioned
+data/brain/labels/
+data/embryo/labels/
+data/brain/metacell_graphs/
+data/embryo/metacell_graphs/
+data/brain/metadata/cell_neighbors_map_global_*.pickle
+data/embryo/metadata/cell_neighbors_map_global_*.pickle
+
+# Archives and checkpoints
+*.7z
+*.pt
+*.pth
+
+# OS / editor noise
+.DS_Store

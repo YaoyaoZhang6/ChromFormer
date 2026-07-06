@@ -1,0 +1,2006 @@
+{
+  "chromosome": "chr19",
+  "graph_dir": "data/brain/metacell_graphs/chr19",
+  "file_suffix": ".npz",
+  "num_graphs": 399,
+  "num_genes": 1119,
+  "edge_dim": 24,
+  "total_size_bytes": 114556223,
+  "samples": [
+    {
+      "cell_id": "ValaB8w3001",
+      "file_name": "ValaB8w3001.npz",
+      "file_size_bytes": 293348
+    },
+    {
+      "cell_id": "ValaB8w3002",
+      "file_name": "ValaB8w3002.npz",
+      "file_size_bytes": 297264
+    },
+    {
+      "cell_id": "ValaB8w3003",
+      "file_name": "ValaB8w3003.npz",
+      "file_size_bytes": 266052
+    },
+    {
+      "cell_id": "ValaB8w3004",
+      "file_name": "ValaB8w3004.npz",
+      "file_size_bytes": 276955
+    },
+    {
+      "cell_id": "ValaB8w3005",
+      "file_name": "ValaB8w3005.npz",
+      "file_size_bytes": 310061
+    },
+    {
+      "cell_id": "ValaB8w3006",
+      "file_name": "ValaB8w3006.npz",
+      "file_size_bytes": 289761
+    },
+    {
+      "cell_id": "ValaB8w3007",
+      "file_name": "ValaB8w3007.npz",
+      "file_size_bytes": 274027
+    },
+    {
+      "cell_id": "ValaB8w3008",
+      "file_name": "ValaB8w3008.npz",
+      "file_size_bytes": 287055
+    },
+    {
+      "cell_id": "ValaB8w3009",
+      "file_name": "ValaB8w3009.npz",
+      "file_size_bytes": 288286
+    },
+    {
+      "cell_id": "ValaB8w3010",
+      "file_name": "ValaB8w3010.npz",
+      "file_size_bytes": 299118
+    },
+    {
+      "cell_id": "ValaB8w3011",
+      "file_name": "ValaB8w3011.npz",
+      "file_size_bytes": 317134
+    },
+    {
+      "cell_id": "ValaB8w3012",
+      "file_name": "ValaB8w3012.npz",
+      "file_size_bytes": 272270
+    },
+    {
+      "cell_id": "ValaB8w3013",
+      "file_name": "ValaB8w3013.npz",
+      "file_size_bytes": 288683
+    },
+    {
+      "cell_id": "ValaB8w3014",
+      "file_name": "ValaB8w3014.npz",
+      "file_size_bytes": 296433
+    },
+    {
+      "cell_id": "ValaB8w3016",
+      "file_name": "ValaB8w3016.npz",
+      "file_size_bytes": 291764
+    },
+    {
+      "cell_id": "ValaB8w3017",
+      "file_name": "ValaB8w3017.npz",
+      "file_size_bytes": 303354
+    },
+    {
+      "cell_id": "ValaB8w3018",
+      "file_name": "ValaB8w3018.npz",
+      "file_size_bytes": 296992
+    },
+    {
+      "cell_id": "ValaB8w3019",
+      "file_name": "ValaB8w3019.npz",
+      "file_size_bytes": 288549
+    },
+    {
+      "cell_id": "ValaB8w3020",
+      "file_name": "ValaB8w3020.npz",
+      "file_size_bytes": 285587
+    },
+    {
+      "cell_id": "ValaB8w3021",
+      "file_name": "ValaB8w3021.npz",
+      "file_size_bytes": 282977
+    },
+    {
+      "cell_id": "ValaB8w3022",
+      "file_name": "ValaB8w3022.npz",
+      "file_size_bytes": 294394
+    },
+    {
+      "cell_id": "ValaB8w3023",
+      "file_name": "ValaB8w3023.npz",
+      "file_size_bytes": 272169
+    },
+    {
+      "cell_id": "ValaB8w3024",
+      "file_name": "ValaB8w3024.npz",
+      "file_size_bytes": 277445
+    },
+    {
+      "cell_id": "ValaB8w3025",
+      "file_name": "ValaB8w3025.npz",
+      "file_size_bytes": 291440
+    },
+    {
+      "cell_id": "ValaB8w3026",
+      "file_name": "ValaB8w3026.npz",
+      "file_size_bytes": 282810
+    },
+    {
+      "cell_id": "ValaB8w3027",
+      "file_name": "ValaB8w3027.npz",
+      "file_size_bytes": 278729
+    },
+    {
+      "cell_id": "ValaB8w3028",
+      "file_name": "ValaB8w3028.npz",
+      "file_size_bytes": 296432
+    },
+    {
+      "cell_id": "ValaB8w3029",
+      "file_name": "ValaB8w3029.npz",
+      "file_size_bytes": 293091
+    },
+    {
+      "cell_id": "ValaB8w3030",
+      "file_name": "ValaB8w3030.npz",
+      "file_size_bytes": 275056
+    },
+    {
+      "cell_id": "ValaB8w3031",
+      "file_name": "ValaB8w3031.npz",
+      "file_size_bytes": 291723
+    },
+    {
+      "cell_id": "ValaB8w3032",
+      "file_name": "ValaB8w3032.npz",
+      "file_size_bytes": 292240
+    },
+    {
+      "cell_id": "ValaB8w3033",
+      "file_name": "ValaB8w3033.npz",
+      "file_size_bytes": 281688
+    },
+    {
+      "cell_id": "ValaB8w3034",
+      "file_name": "ValaB8w3034.npz",
+      "file_size_bytes": 274469
+    },
+    {
+      "cell_id": "ValaB8w3035",
+      "file_name": "ValaB8w3035.npz",
+      "file_size_bytes": 293416
+    },
+    {
+      "cell_id": "ValaB8w3036",
+      "file_name": "ValaB8w3036.npz",
+      "file_size_bytes": 282514
+    },
+    {
+      "cell_id": "ValaB8w3038",
+      "file_name": "ValaB8w3038.npz",
+      "file_size_bytes": 283373
+    },
+    {
+      "cell_id": "ValaB8w3039",
+      "file_name": "ValaB8w3039.npz",
+      "file_size_bytes": 277332
+    },
+    {
+      "cell_id": "ValaB8w3040",
+      "file_name": "ValaB8w3040.npz",
+      "file_size_bytes": 300572
+    },
+    {
+      "cell_id": "ValaB8w3041",
+      "file_name": "ValaB8w3041.npz",
+      "file_size_bytes": 283363
+    },
+    {
+      "cell_id": "ValaB8w3042",
+      "file_name": "ValaB8w3042.npz",
+      "file_size_bytes": 298912
+    },
+    {
+      "cell_id": "ValaB8w3043",
+      "file_name": "ValaB8w3043.npz",
+      "file_size_bytes": 297793
+    },
+    {
+      "cell_id": "ValaB8w3044",
+      "file_name": "ValaB8w3044.npz",
+      "file_size_bytes": 289307
+    },
+    {
+      "cell_id": "ValaB8w3045",
+      "file_name": "ValaB8w3045.npz",
+      "file_size_bytes": 288310
+    },
+    {
+      "cell_id": "ValaB8w3046",
+      "file_name": "ValaB8w3046.npz",
+      "file_size_bytes": 304133
+    },
+    {
+      "cell_id": "ValaB8w3047",
+      "file_name": "ValaB8w3047.npz",
+      "file_size_bytes": 301039
+    },
+    {
+      "cell_id": "ValaB8w3048",
+      "file_name": "ValaB8w3048.npz",
+      "file_size_bytes": 279024
+    },
+    {
+      "cell_id": "ValaB8w4001",
+      "file_name": "ValaB8w4001.npz",
+      "file_size_bytes": 286264
+    },
+    {
+      "cell_id": "ValaB8w4002",
+      "file_name": "ValaB8w4002.npz",
+      "file_size_bytes": 279847
+    },
+    {
+      "cell_id": "ValaB8w4003",
+      "file_name": "ValaB8w4003.npz",
+      "file_size_bytes": 274101
+    },
+    {
+      "cell_id": "ValaB8w4004",
+      "file_name": "ValaB8w4004.npz",
+      "file_size_bytes": 300444
+    },
+    {
+      "cell_id": "ValaB8w4005",
+      "file_name": "ValaB8w4005.npz",
+      "file_size_bytes": 289201
+    },
+    {
+      "cell_id": "ValaB8w4007",
+      "file_name": "ValaB8w4007.npz",
+      "file_size_bytes": 313023
+    },
+    {
+      "cell_id": "ValaB8w4008",
+      "file_name": "ValaB8w4008.npz",
+      "file_size_bytes": 289439
+    },
+    {
+      "cell_id": "ValaB8w4009",
+      "file_name": "ValaB8w4009.npz",
+      "file_size_bytes": 303142
+    },
+    {
+      "cell_id": "ValaB8w4010",
+      "file_name": "ValaB8w4010.npz",
+      "file_size_bytes": 303143
+    },
+    {
+      "cell_id": "ValaB8w4011",
+      "file_name": "ValaB8w4011.npz",
+      "file_size_bytes": 275079
+    },
+    {
+      "cell_id": "ValaB8w4012",
+      "file_name": "ValaB8w4012.npz",
+      "file_size_bytes": 281751
+    },
+    {
+      "cell_id": "ValaB8w4013",
+      "file_name": "ValaB8w4013.npz",
+      "file_size_bytes": 287938
+    },
+    {
+      "cell_id": "ValaB8w4014",
+      "file_name": "ValaB8w4014.npz",
+      "file_size_bytes": 293061
+    },
+    {
+      "cell_id": "ValaB8w4015",
+      "file_name": "ValaB8w4015.npz",
+      "file_size_bytes": 302662
+    },
+    {
+      "cell_id": "ValaB8w4016",
+      "file_name": "ValaB8w4016.npz",
+      "file_size_bytes": 275681
+    },
+    {
+      "cell_id": "ValaB8w4017",
+      "file_name": "ValaB8w4017.npz",
+      "file_size_bytes": 283279
+    },
+    {
+      "cell_id": "ValaB8w4018",
+      "file_name": "ValaB8w4018.npz",
+      "file_size_bytes": 281202
+    },
+    {
+      "cell_id": "ValaB8w4019",
+      "file_name": "ValaB8w4019.npz",
+      "file_size_bytes": 291378
+    },
+    {
+      "cell_id": "ValaB8w4020",
+      "file_name": "ValaB8w4020.npz",
+      "file_size_bytes": 290214
+    },
+    {
+      "cell_id": "ValaB8w4021",
+      "file_name": "ValaB8w4021.npz",
+      "file_size_bytes": 299767
+    },
+    {
+      "cell_id": "ValaB8w4022",
+      "file_name": "ValaB8w4022.npz",
+      "file_size_bytes": 268756
+    },
+    {
+      "cell_id": "ValaB8w4023",
+      "file_name": "ValaB8w4023.npz",
+      "file_size_bytes": 297443
+    },
+    {
+      "cell_id": "ValaB8w4024",
+      "file_name": "ValaB8w4024.npz",
+      "file_size_bytes": 269462
+    },
+    {
+      "cell_id": "ValaB8w4025",
+      "file_name": "ValaB8w4025.npz",
+      "file_size_bytes": 291818
+    },
+    {
+      "cell_id": "ValaB8w4026",
+      "file_name": "ValaB8w4026.npz",
+      "file_size_bytes": 270042
+    },
+    {
+      "cell_id": "ValaB8w4027",
+      "file_name": "ValaB8w4027.npz",
+      "file_size_bytes": 265909
+    },
+    {
+      "cell_id": "ValaB8w4028",
+      "file_name": "ValaB8w4028.npz",
+      "file_size_bytes": 311812
+    },
+    {
+      "cell_id": "ValaB8w4029",
+      "file_name": "ValaB8w4029.npz",
+      "file_size_bytes": 300561
+    },
+    {
+      "cell_id": "ValaB8w4030",
+      "file_name": "ValaB8w4030.npz",
+      "file_size_bytes": 290854
+    },
+    {
+      "cell_id": "ValaB8w4031",
+      "file_name": "ValaB8w4031.npz",
+      "file_size_bytes": 296396
+    },
+    {
+      "cell_id": "ValaB8w4032",
+      "file_name": "ValaB8w4032.npz",
+      "file_size_bytes": 288079
+    },
+    {
+      "cell_id": "ValaB8w4033",
+      "file_name": "ValaB8w4033.npz",
+      "file_size_bytes": 293921
+    },
+    {
+      "cell_id": "ValaB8w4034",
+      "file_name": "ValaB8w4034.npz",
+      "file_size_bytes": 274506
+    },
+    {
+      "cell_id": "ValaB8w4035",
+      "file_name": "ValaB8w4035.npz",
+      "file_size_bytes": 293666
+    },
+    {
+      "cell_id": "ValaB8w4036",
+      "file_name": "ValaB8w4036.npz",
+      "file_size_bytes": 266877
+    },
+    {
+      "cell_id": "ValaB8w4039",
+      "file_name": "ValaB8w4039.npz",
+      "file_size_bytes": 290170
+    },
+    {
+      "cell_id": "ValaB8w4040",
+      "file_name": "ValaB8w4040.npz",
+      "file_size_bytes": 270513
+    },
+    {
+      "cell_id": "ValaB8w4041",
+      "file_name": "ValaB8w4041.npz",
+      "file_size_bytes": 285995
+    },
+    {
+      "cell_id": "ValaB8w4042",
+      "file_name": "ValaB8w4042.npz",
+      "file_size_bytes": 264138
+    },
+    {
+      "cell_id": "ValaB8w4043",
+      "file_name": "ValaB8w4043.npz",
+      "file_size_bytes": 262906
+    },
+    {
+      "cell_id": "ValaB8w4044",
+      "file_name": "ValaB8w4044.npz",
+      "file_size_bytes": 281909
+    },
+    {
+      "cell_id": "ValaB8w4045",
+      "file_name": "ValaB8w4045.npz",
+      "file_size_bytes": 279729
+    },
+    {
+      "cell_id": "ValaB8w4046",
+      "file_name": "ValaB8w4046.npz",
+      "file_size_bytes": 303268
+    },
+    {
+      "cell_id": "ValaB8w4047",
+      "file_name": "ValaB8w4047.npz",
+      "file_size_bytes": 293768
+    },
+    {
+      "cell_id": "ValaB8w4048",
+      "file_name": "ValaB8w4048.npz",
+      "file_size_bytes": 297148
+    },
+    {
+      "cell_id": "ValaB8w4049",
+      "file_name": "ValaB8w4049.npz",
+      "file_size_bytes": 285101
+    },
+    {
+      "cell_id": "ValaB8w4050",
+      "file_name": "ValaB8w4050.npz",
+      "file_size_bytes": 272563
+    },
+    {
+      "cell_id": "ValaB8w4051",
+      "file_name": "ValaB8w4051.npz",
+      "file_size_bytes": 302083
+    },
+    {
+      "cell_id": "ValaB8w4052",
+      "file_name": "ValaB8w4052.npz",
+      "file_size_bytes": 278209
+    },
+    {
+      "cell_id": "ValaB8w4053",
+      "file_name": "ValaB8w4053.npz",
+      "file_size_bytes": 270695
+    },
+    {
+      "cell_id": "ValaB8w4054",
+      "file_name": "ValaB8w4054.npz",
+      "file_size_bytes": 302041
+    },
+    {
+      "cell_id": "ValaB8w4055",
+      "file_name": "ValaB8w4055.npz",
+      "file_size_bytes": 280197
+    },
+    {
+      "cell_id": "ValaB8w4056",
+      "file_name": "ValaB8w4056.npz",
+      "file_size_bytes": 299647
+    },
+    {
+      "cell_id": "ValaB8w4057",
+      "file_name": "ValaB8w4057.npz",
+      "file_size_bytes": 291333
+    },
+    {
+      "cell_id": "ValaB8w4058",
+      "file_name": "ValaB8w4058.npz",
+      "file_size_bytes": 280138
+    },
+    {
+      "cell_id": "ValaB8w4059",
+      "file_name": "ValaB8w4059.npz",
+      "file_size_bytes": 295867
+    },
+    {
+      "cell_id": "ValaB8w4060",
+      "file_name": "ValaB8w4060.npz",
+      "file_size_bytes": 283610
+    },
+    {
+      "cell_id": "ValaB8w4061",
+      "file_name": "ValaB8w4061.npz",
+      "file_size_bytes": 279431
+    },
+    {
+      "cell_id": "ValaB8w4062",
+      "file_name": "ValaB8w4062.npz",
+      "file_size_bytes": 294432
+    },
+    {
+      "cell_id": "ValaB8w4063",
+      "file_name": "ValaB8w4063.npz",
+      "file_size_bytes": 281788
+    },
+    {
+      "cell_id": "ValaB8w4064",
+      "file_name": "ValaB8w4064.npz",
+      "file_size_bytes": 287641
+    },
+    {
+      "cell_id": "ValaB8w4065",
+      "file_name": "ValaB8w4065.npz",
+      "file_size_bytes": 288167
+    },
+    {
+      "cell_id": "ValaB8w4066",
+      "file_name": "ValaB8w4066.npz",
+      "file_size_bytes": 267754
+    },
+    {
+      "cell_id": "ValaB8w4067",
+      "file_name": "ValaB8w4067.npz",
+      "file_size_bytes": 283443
+    },
+    {
+      "cell_id": "ValaB8w4068",
+      "file_name": "ValaB8w4068.npz",
+      "file_size_bytes": 301446
+    },
+    {
+      "cell_id": "ValaB8w4069",
+      "file_name": "ValaB8w4069.npz",
+      "file_size_bytes": 299846
+    },
+    {
+      "cell_id": "ValaB8w4070",
+      "file_name": "ValaB8w4070.npz",
+      "file_size_bytes": 275658
+    },
+    {
+      "cell_id": "ValaB8w4071",
+      "file_name": "ValaB8w4071.npz",
+      "file_size_bytes": 278240
+    },
+    {
+      "cell_id": "ValaB8w4072",
+      "file_name": "ValaB8w4072.npz",
+      "file_size_bytes": 282892
+    },
+    {
+      "cell_id": "ValaB8w4073",
+      "file_name": "ValaB8w4073.npz",
+      "file_size_bytes": 297551
+    },
+    {
+      "cell_id": "ValaB8w4074",
+      "file_name": "ValaB8w4074.npz",
+      "file_size_bytes": 284749
+    },
+    {
+      "cell_id": "ValaB8w4076",
+      "file_name": "ValaB8w4076.npz",
+      "file_size_bytes": 255158
+    },
+    {
+      "cell_id": "ValaB8w4077",
+      "file_name": "ValaB8w4077.npz",
+      "file_size_bytes": 299191
+    },
+    {
+      "cell_id": "ValaB8w4078",
+      "file_name": "ValaB8w4078.npz",
+      "file_size_bytes": 280737
+    },
+    {
+      "cell_id": "ValaB8w4079",
+      "file_name": "ValaB8w4079.npz",
+      "file_size_bytes": 277512
+    },
+    {
+      "cell_id": "ValaB8w4080",
+      "file_name": "ValaB8w4080.npz",
+      "file_size_bytes": 288331
+    },
+    {
+      "cell_id": "ValaB8w4081",
+      "file_name": "ValaB8w4081.npz",
+      "file_size_bytes": 278675
+    },
+    {
+      "cell_id": "ValaB8w4082",
+      "file_name": "ValaB8w4082.npz",
+      "file_size_bytes": 293171
+    },
+    {
+      "cell_id": "ValaB8w4083",
+      "file_name": "ValaB8w4083.npz",
+      "file_size_bytes": 286636
+    },
+    {
+      "cell_id": "ValaB8w4084",
+      "file_name": "ValaB8w4084.npz",
+      "file_size_bytes": 282919
+    },
+    {
+      "cell_id": "ValaB8w4085",
+      "file_name": "ValaB8w4085.npz",
+      "file_size_bytes": 304903
+    },
+    {
+      "cell_id": "ValaB8w4086",
+      "file_name": "ValaB8w4086.npz",
+      "file_size_bytes": 286187
+    },
+    {
+      "cell_id": "ValaB8w4087",
+      "file_name": "ValaB8w4087.npz",
+      "file_size_bytes": 280497
+    },
+    {
+      "cell_id": "ValaB8w4088",
+      "file_name": "ValaB8w4088.npz",
+      "file_size_bytes": 282670
+    },
+    {
+      "cell_id": "ValaB8w4089",
+      "file_name": "ValaB8w4089.npz",
+      "file_size_bytes": 278735
+    },
+    {
+      "cell_id": "ValaB8w4090",
+      "file_name": "ValaB8w4090.npz",
+      "file_size_bytes": 294847
+    },
+    {
+      "cell_id": "ValaB8w4091",
+      "file_name": "ValaB8w4091.npz",
+      "file_size_bytes": 261618
+    },
+    {
+      "cell_id": "ValaB8w4092",
+      "file_name": "ValaB8w4092.npz",
+      "file_size_bytes": 289435
+    },
+    {
+      "cell_id": "ValaB8w4093",
+      "file_name": "ValaB8w4093.npz",
+      "file_size_bytes": 301041
+    },
+    {
+      "cell_id": "ValaB8w4094",
+      "file_name": "ValaB8w4094.npz",
+      "file_size_bytes": 286730
+    },
+    {
+      "cell_id": "ValaB8w4095",
+      "file_name": "ValaB8w4095.npz",
+      "file_size_bytes": 273331
+    },
+    {
+      "cell_id": "ValaB8w4096",
+      "file_name": "ValaB8w4096.npz",
+      "file_size_bytes": 298783
+    },
+    {
+      "cell_id": "ValaB8w4097",
+      "file_name": "ValaB8w4097.npz",
+      "file_size_bytes": 278002
+    },
+    {
+      "cell_id": "ValaB8w4098",
+      "file_name": "ValaB8w4098.npz",
+      "file_size_bytes": 255314
+    },
+    {
+      "cell_id": "ValaB8w4099",
+      "file_name": "ValaB8w4099.npz",
+      "file_size_bytes": 278255
+    },
+    {
+      "cell_id": "ValaB8w4100",
+      "file_name": "ValaB8w4100.npz",
+      "file_size_bytes": 266535
+    },
+    {
+      "cell_id": "ValaB8w4101",
+      "file_name": "ValaB8w4101.npz",
+      "file_size_bytes": 287924
+    },
+    {
+      "cell_id": "ValaB8w4102",
+      "file_name": "ValaB8w4102.npz",
+      "file_size_bytes": 278607
+    },
+    {
+      "cell_id": "ValaB8w4103",
+      "file_name": "ValaB8w4103.npz",
+      "file_size_bytes": 294173
+    },
+    {
+      "cell_id": "ValaB8w4104",
+      "file_name": "ValaB8w4104.npz",
+      "file_size_bytes": 280816
+    },
+    {
+      "cell_id": "ValaB8w4105",
+      "file_name": "ValaB8w4105.npz",
+      "file_size_bytes": 289903
+    },
+    {
+      "cell_id": "ValaB8w4106",
+      "file_name": "ValaB8w4106.npz",
+      "file_size_bytes": 291288
+    },
+    {
+      "cell_id": "ValaB8w4107",
+      "file_name": "ValaB8w4107.npz",
+      "file_size_bytes": 281157
+    },
+    {
+      "cell_id": "ValaB8w4108",
+      "file_name": "ValaB8w4108.npz",
+      "file_size_bytes": 269823
+    },
+    {
+      "cell_id": "ValaB8w4109",
+      "file_name": "ValaB8w4109.npz",
+      "file_size_bytes": 274577
+    },
+    {
+      "cell_id": "ValaB8w4110",
+      "file_name": "ValaB8w4110.npz",
+      "file_size_bytes": 282149
+    },
+    {
+      "cell_id": "ValaB8w4111",
+      "file_name": "ValaB8w4111.npz",
+      "file_size_bytes": 275062
+    },
+    {
+      "cell_id": "ValaB8w4112",
+      "file_name": "ValaB8w4112.npz",
+      "file_size_bytes": 275434
+    },
+    {
+      "cell_id": "ValaB8w4113",
+      "file_name": "ValaB8w4113.npz",
+      "file_size_bytes": 287547
+    },
+    {
+      "cell_id": "ValaB8w4114",
+      "file_name": "ValaB8w4114.npz",
+      "file_size_bytes": 276186
+    },
+    {
+      "cell_id": "ValaB8w4115",
+      "file_name": "ValaB8w4115.npz",
+      "file_size_bytes": 277168
+    },
+    {
+      "cell_id": "ValaB8w4116",
+      "file_name": "ValaB8w4116.npz",
+      "file_size_bytes": 294041
+    },
+    {
+      "cell_id": "ValaB8w4117",
+      "file_name": "ValaB8w4117.npz",
+      "file_size_bytes": 289496
+    },
+    {
+      "cell_id": "ValaB8w4118",
+      "file_name": "ValaB8w4118.npz",
+      "file_size_bytes": 282505
+    },
+    {
+      "cell_id": "ValaB8w4120",
+      "file_name": "ValaB8w4120.npz",
+      "file_size_bytes": 293739
+    },
+    {
+      "cell_id": "ValaB8w4121",
+      "file_name": "ValaB8w4121.npz",
+      "file_size_bytes": 304027
+    },
+    {
+      "cell_id": "ValaB8w4122",
+      "file_name": "ValaB8w4122.npz",
+      "file_size_bytes": 296529
+    },
+    {
+      "cell_id": "ValaB8w4123",
+      "file_name": "ValaB8w4123.npz",
+      "file_size_bytes": 287518
+    },
+    {
+      "cell_id": "ValaB8w4124",
+      "file_name": "ValaB8w4124.npz",
+      "file_size_bytes": 272838
+    },
+    {
+      "cell_id": "ValaB8w4125",
+      "file_name": "ValaB8w4125.npz",
+      "file_size_bytes": 298037
+    },
+    {
+      "cell_id": "ValaB8w4126",
+      "file_name": "ValaB8w4126.npz",
+      "file_size_bytes": 279917
+    },
+    {
+      "cell_id": "ValaB8w4127",
+      "file_name": "ValaB8w4127.npz",
+      "file_size_bytes": 280505
+    },
+    {
+      "cell_id": "ValaB8w4128",
+      "file_name": "ValaB8w4128.npz",
+      "file_size_bytes": 280924
+    },
+    {
+      "cell_id": "ValaB8w4129",
+      "file_name": "ValaB8w4129.npz",
+      "file_size_bytes": 286086
+    },
+    {
+      "cell_id": "ValaB8w4130",
+      "file_name": "ValaB8w4130.npz",
+      "file_size_bytes": 279585
+    },
+    {
+      "cell_id": "ValaB8w4131",
+      "file_name": "ValaB8w4131.npz",
+      "file_size_bytes": 280795
+    },
+    {
+      "cell_id": "ValaB8w4132",
+      "file_name": "ValaB8w4132.npz",
+      "file_size_bytes": 295695
+    },
+    {
+      "cell_id": "ValaB8w4133",
+      "file_name": "ValaB8w4133.npz",
+      "file_size_bytes": 293281
+    },
+    {
+      "cell_id": "ValaB8w4134",
+      "file_name": "ValaB8w4134.npz",
+      "file_size_bytes": 286419
+    },
+    {
+      "cell_id": "ValaB8w4135",
+      "file_name": "ValaB8w4135.npz",
+      "file_size_bytes": 277990
+    },
+    {
+      "cell_id": "ValaB8w4136",
+      "file_name": "ValaB8w4136.npz",
+      "file_size_bytes": 288350
+    },
+    {
+      "cell_id": "ValaB8w4137",
+      "file_name": "ValaB8w4137.npz",
+      "file_size_bytes": 297292
+    },
+    {
+      "cell_id": "ValaB8w4138",
+      "file_name": "ValaB8w4138.npz",
+      "file_size_bytes": 275717
+    },
+    {
+      "cell_id": "ValaB8w4139",
+      "file_name": "ValaB8w4139.npz",
+      "file_size_bytes": 274817
+    },
+    {
+      "cell_id": "ValaB8w4140",
+      "file_name": "ValaB8w4140.npz",
+      "file_size_bytes": 263106
+    },
+    {
+      "cell_id": "ValaB8w4141",
+      "file_name": "ValaB8w4141.npz",
+      "file_size_bytes": 279805
+    },
+    {
+      "cell_id": "ValaB8w4142",
+      "file_name": "ValaB8w4142.npz",
+      "file_size_bytes": 277520
+    },
+    {
+      "cell_id": "ValaB8w4143",
+      "file_name": "ValaB8w4143.npz",
+      "file_size_bytes": 288574
+    },
+    {
+      "cell_id": "ValaB8w4144",
+      "file_name": "ValaB8w4144.npz",
+      "file_size_bytes": 290852
+    },
+    {
+      "cell_id": "ValaB8w4145",
+      "file_name": "ValaB8w4145.npz",
+      "file_size_bytes": 299236
+    },
+    {
+      "cell_id": "ValaB8w4146",
+      "file_name": "ValaB8w4146.npz",
+      "file_size_bytes": 289609
+    },
+    {
+      "cell_id": "ValaB8w4147",
+      "file_name": "ValaB8w4147.npz",
+      "file_size_bytes": 278561
+    },
+    {
+      "cell_id": "ValaB8w4148",
+      "file_name": "ValaB8w4148.npz",
+      "file_size_bytes": 288867
+    },
+    {
+      "cell_id": "ValaB8w4149",
+      "file_name": "ValaB8w4149.npz",
+      "file_size_bytes": 272452
+    },
+    {
+      "cell_id": "ValaB8w4150",
+      "file_name": "ValaB8w4150.npz",
+      "file_size_bytes": 288654
+    },
+    {
+      "cell_id": "ValaB8w4151",
+      "file_name": "ValaB8w4151.npz",
+      "file_size_bytes": 277418
+    },
+    {
+      "cell_id": "ValaB8w4152",
+      "file_name": "ValaB8w4152.npz",
+      "file_size_bytes": 285038
+    },
+    {
+      "cell_id": "ValaB8w4153",
+      "file_name": "ValaB8w4153.npz",
+      "file_size_bytes": 269907
+    },
+    {
+      "cell_id": "ValaB8w4154",
+      "file_name": "ValaB8w4154.npz",
+      "file_size_bytes": 270390
+    },
+    {
+      "cell_id": "ValaB8w4155",
+      "file_name": "ValaB8w4155.npz",
+      "file_size_bytes": 272585
+    },
+    {
+      "cell_id": "ValaB8w4156",
+      "file_name": "ValaB8w4156.npz",
+      "file_size_bytes": 292089
+    },
+    {
+      "cell_id": "ValaB8w4157",
+      "file_name": "ValaB8w4157.npz",
+      "file_size_bytes": 285132
+    },
+    {
+      "cell_id": "ValaB8w4158",
+      "file_name": "ValaB8w4158.npz",
+      "file_size_bytes": 282492
+    },
+    {
+      "cell_id": "ValaB8w4159",
+      "file_name": "ValaB8w4159.npz",
+      "file_size_bytes": 292750
+    },
+    {
+      "cell_id": "ValaB8w4160",
+      "file_name": "ValaB8w4160.npz",
+      "file_size_bytes": 296317
+    },
+    {
+      "cell_id": "ValaB8w4161",
+      "file_name": "ValaB8w4161.npz",
+      "file_size_bytes": 277338
+    },
+    {
+      "cell_id": "ValaB8w4162",
+      "file_name": "ValaB8w4162.npz",
+      "file_size_bytes": 281379
+    },
+    {
+      "cell_id": "ValaB8w4163",
+      "file_name": "ValaB8w4163.npz",
+      "file_size_bytes": 270471
+    },
+    {
+      "cell_id": "ValaB8w4164",
+      "file_name": "ValaB8w4164.npz",
+      "file_size_bytes": 279983
+    },
+    {
+      "cell_id": "ValaB8w4165",
+      "file_name": "ValaB8w4165.npz",
+      "file_size_bytes": 280532
+    },
+    {
+      "cell_id": "ValaB8w4166",
+      "file_name": "ValaB8w4166.npz",
+      "file_size_bytes": 274332
+    },
+    {
+      "cell_id": "ValaB8w4167",
+      "file_name": "ValaB8w4167.npz",
+      "file_size_bytes": 278893
+    },
+    {
+      "cell_id": "ValaB8w4168",
+      "file_name": "ValaB8w4168.npz",
+      "file_size_bytes": 287822
+    },
+    {
+      "cell_id": "ValaB8w4169",
+      "file_name": "ValaB8w4169.npz",
+      "file_size_bytes": 278117
+    },
+    {
+      "cell_id": "ValaB8w4170",
+      "file_name": "ValaB8w4170.npz",
+      "file_size_bytes": 289453
+    },
+    {
+      "cell_id": "ValaB8w4171",
+      "file_name": "ValaB8w4171.npz",
+      "file_size_bytes": 290102
+    },
+    {
+      "cell_id": "ValaB8w4172",
+      "file_name": "ValaB8w4172.npz",
+      "file_size_bytes": 276167
+    },
+    {
+      "cell_id": "ValaB8w4173",
+      "file_name": "ValaB8w4173.npz",
+      "file_size_bytes": 293737
+    },
+    {
+      "cell_id": "ValaB8w4174",
+      "file_name": "ValaB8w4174.npz",
+      "file_size_bytes": 294523
+    },
+    {
+      "cell_id": "ValaB8w4175",
+      "file_name": "ValaB8w4175.npz",
+      "file_size_bytes": 268281
+    },
+    {
+      "cell_id": "ValaB8w4176",
+      "file_name": "ValaB8w4176.npz",
+      "file_size_bytes": 273660
+    },
+    {
+      "cell_id": "ValaB8w4177",
+      "file_name": "ValaB8w4177.npz",
+      "file_size_bytes": 257947
+    },
+    {
+      "cell_id": "ValaB8w4178",
+      "file_name": "ValaB8w4178.npz",
+      "file_size_bytes": 283068
+    },
+    {
+      "cell_id": "ValaB8w4179",
+      "file_name": "ValaB8w4179.npz",
+      "file_size_bytes": 267737
+    },
+    {
+      "cell_id": "ValaB8w4180",
+      "file_name": "ValaB8w4180.npz",
+      "file_size_bytes": 299524
+    },
+    {
+      "cell_id": "ValaB8w4181",
+      "file_name": "ValaB8w4181.npz",
+      "file_size_bytes": 279199
+    },
+    {
+      "cell_id": "ValaB8w4182",
+      "file_name": "ValaB8w4182.npz",
+      "file_size_bytes": 289918
+    },
+    {
+      "cell_id": "ValaB8w4183",
+      "file_name": "ValaB8w4183.npz",
+      "file_size_bytes": 286043
+    },
+    {
+      "cell_id": "ValaB8w4184",
+      "file_name": "ValaB8w4184.npz",
+      "file_size_bytes": 283088
+    },
+    {
+      "cell_id": "ValaB8w4186",
+      "file_name": "ValaB8w4186.npz",
+      "file_size_bytes": 274600
+    },
+    {
+      "cell_id": "ValaB8w4187",
+      "file_name": "ValaB8w4187.npz",
+      "file_size_bytes": 289472
+    },
+    {
+      "cell_id": "ValaB8w4188",
+      "file_name": "ValaB8w4188.npz",
+      "file_size_bytes": 277605
+    },
+    {
+      "cell_id": "ValaB8w4189",
+      "file_name": "ValaB8w4189.npz",
+      "file_size_bytes": 272567
+    },
+    {
+      "cell_id": "ValaB8w4190",
+      "file_name": "ValaB8w4190.npz",
+      "file_size_bytes": 272318
+    },
+    {
+      "cell_id": "ValaB8w4191",
+      "file_name": "ValaB8w4191.npz",
+      "file_size_bytes": 279137
+    },
+    {
+      "cell_id": "ValaB8w4192",
+      "file_name": "ValaB8w4192.npz",
+      "file_size_bytes": 295094
+    },
+    {
+      "cell_id": "ValbB8w1001",
+      "file_name": "ValbB8w1001.npz",
+      "file_size_bytes": 301116
+    },
+    {
+      "cell_id": "ValbB8w1002",
+      "file_name": "ValbB8w1002.npz",
+      "file_size_bytes": 293004
+    },
+    {
+      "cell_id": "ValbB8w1003",
+      "file_name": "ValbB8w1003.npz",
+      "file_size_bytes": 292468
+    },
+    {
+      "cell_id": "ValbB8w1004",
+      "file_name": "ValbB8w1004.npz",
+      "file_size_bytes": 267092
+    },
+    {
+      "cell_id": "ValbB8w1005",
+      "file_name": "ValbB8w1005.npz",
+      "file_size_bytes": 290574
+    },
+    {
+      "cell_id": "ValbB8w1006",
+      "file_name": "ValbB8w1006.npz",
+      "file_size_bytes": 291961
+    },
+    {
+      "cell_id": "ValbB8w1007",
+      "file_name": "ValbB8w1007.npz",
+      "file_size_bytes": 315081
+    },
+    {
+      "cell_id": "ValbB8w1008",
+      "file_name": "ValbB8w1008.npz",
+      "file_size_bytes": 284846
+    },
+    {
+      "cell_id": "ValbB8w1009",
+      "file_name": "ValbB8w1009.npz",
+      "file_size_bytes": 297657
+    },
+    {
+      "cell_id": "ValbB8w1010",
+      "file_name": "ValbB8w1010.npz",
+      "file_size_bytes": 289328
+    },
+    {
+      "cell_id": "ValbB8w1011",
+      "file_name": "ValbB8w1011.npz",
+      "file_size_bytes": 297964
+    },
+    {
+      "cell_id": "ValbB8w1012",
+      "file_name": "ValbB8w1012.npz",
+      "file_size_bytes": 289229
+    },
+    {
+      "cell_id": "ValbB8w1013",
+      "file_name": "ValbB8w1013.npz",
+      "file_size_bytes": 308198
+    },
+    {
+      "cell_id": "ValbB8w1014",
+      "file_name": "ValbB8w1014.npz",
+      "file_size_bytes": 300057
+    },
+    {
+      "cell_id": "ValbB8w1015",
+      "file_name": "ValbB8w1015.npz",
+      "file_size_bytes": 282654
+    },
+    {
+      "cell_id": "ValbB8w1016",
+      "file_name": "ValbB8w1016.npz",
+      "file_size_bytes": 311846
+    },
+    {
+      "cell_id": "ValbB8w1017",
+      "file_name": "ValbB8w1017.npz",
+      "file_size_bytes": 292575
+    },
+    {
+      "cell_id": "ValbB8w1018",
+      "file_name": "ValbB8w1018.npz",
+      "file_size_bytes": 289146
+    },
+    {
+      "cell_id": "ValbB8w1019",
+      "file_name": "ValbB8w1019.npz",
+      "file_size_bytes": 296874
+    },
+    {
+      "cell_id": "ValbB8w1021",
+      "file_name": "ValbB8w1021.npz",
+      "file_size_bytes": 299965
+    },
+    {
+      "cell_id": "ValbB8w1022",
+      "file_name": "ValbB8w1022.npz",
+      "file_size_bytes": 311061
+    },
+    {
+      "cell_id": "ValbB8w1023",
+      "file_name": "ValbB8w1023.npz",
+      "file_size_bytes": 299382
+    },
+    {
+      "cell_id": "ValbB8w1024",
+      "file_name": "ValbB8w1024.npz",
+      "file_size_bytes": 289592
+    },
+    {
+      "cell_id": "ValbB8w1025",
+      "file_name": "ValbB8w1025.npz",
+      "file_size_bytes": 303290
+    },
+    {
+      "cell_id": "ValbB8w1026",
+      "file_name": "ValbB8w1026.npz",
+      "file_size_bytes": 302322
+    },
+    {
+      "cell_id": "ValbB8w1027",
+      "file_name": "ValbB8w1027.npz",
+      "file_size_bytes": 296455
+    },
+    {
+      "cell_id": "ValbB8w1028",
+      "file_name": "ValbB8w1028.npz",
+      "file_size_bytes": 307649
+    },
+    {
+      "cell_id": "ValbB8w1029",
+      "file_name": "ValbB8w1029.npz",
+      "file_size_bytes": 299274
+    },
+    {
+      "cell_id": "ValbB8w1030",
+      "file_name": "ValbB8w1030.npz",
+      "file_size_bytes": 296945
+    },
+    {
+      "cell_id": "ValbB8w1032",
+      "file_name": "ValbB8w1032.npz",
+      "file_size_bytes": 298128
+    },
+    {
+      "cell_id": "ValbB8w1033",
+      "file_name": "ValbB8w1033.npz",
+      "file_size_bytes": 308939
+    },
+    {
+      "cell_id": "ValbB8w1034",
+      "file_name": "ValbB8w1034.npz",
+      "file_size_bytes": 306936
+    },
+    {
+      "cell_id": "ValbB8w1035",
+      "file_name": "ValbB8w1035.npz",
+      "file_size_bytes": 301146
+    },
+    {
+      "cell_id": "ValbB8w1036",
+      "file_name": "ValbB8w1036.npz",
+      "file_size_bytes": 281336
+    },
+    {
+      "cell_id": "ValbB8w1037",
+      "file_name": "ValbB8w1037.npz",
+      "file_size_bytes": 302840
+    },
+    {
+      "cell_id": "ValbB8w1038",
+      "file_name": "ValbB8w1038.npz",
+      "file_size_bytes": 299525
+    },
+    {
+      "cell_id": "ValbB8w1039",
+      "file_name": "ValbB8w1039.npz",
+      "file_size_bytes": 298110
+    },
+    {
+      "cell_id": "ValbB8w1040",
+      "file_name": "ValbB8w1040.npz",
+      "file_size_bytes": 301969
+    },
+    {
+      "cell_id": "ValbB8w1041",
+      "file_name": "ValbB8w1041.npz",
+      "file_size_bytes": 289582
+    },
+    {
+      "cell_id": "ValbB8w1042",
+      "file_name": "ValbB8w1042.npz",
+      "file_size_bytes": 295318
+    },
+    {
+      "cell_id": "ValbB8w1043",
+      "file_name": "ValbB8w1043.npz",
+      "file_size_bytes": 300343
+    },
+    {
+      "cell_id": "ValbB8w1044",
+      "file_name": "ValbB8w1044.npz",
+      "file_size_bytes": 279715
+    },
+    {
+      "cell_id": "ValbB8w1045",
+      "file_name": "ValbB8w1045.npz",
+      "file_size_bytes": 282026
+    },
+    {
+      "cell_id": "ValbB8w1046",
+      "file_name": "ValbB8w1046.npz",
+      "file_size_bytes": 281244
+    },
+    {
+      "cell_id": "ValbB8w1047",
+      "file_name": "ValbB8w1047.npz",
+      "file_size_bytes": 289702
+    },
+    {
+      "cell_id": "ValbB8w1048",
+      "file_name": "ValbB8w1048.npz",
+      "file_size_bytes": 290773
+    },
+    {
+      "cell_id": "ValbB8w1049",
+      "file_name": "ValbB8w1049.npz",
+      "file_size_bytes": 285951
+    },
+    {
+      "cell_id": "ValbB8w1050",
+      "file_name": "ValbB8w1050.npz",
+      "file_size_bytes": 276782
+    },
+    {
+      "cell_id": "ValbB8w1051",
+      "file_name": "ValbB8w1051.npz",
+      "file_size_bytes": 278035
+    },
+    {
+      "cell_id": "ValbB8w1052",
+      "file_name": "ValbB8w1052.npz",
+      "file_size_bytes": 292364
+    },
+    {
+      "cell_id": "ValbB8w1053",
+      "file_name": "ValbB8w1053.npz",
+      "file_size_bytes": 295418
+    },
+    {
+      "cell_id": "ValbB8w1054",
+      "file_name": "ValbB8w1054.npz",
+      "file_size_bytes": 278579
+    },
+    {
+      "cell_id": "ValbB8w1055",
+      "file_name": "ValbB8w1055.npz",
+      "file_size_bytes": 299853
+    },
+    {
+      "cell_id": "ValbB8w1056",
+      "file_name": "ValbB8w1056.npz",
+      "file_size_bytes": 292853
+    },
+    {
+      "cell_id": "ValbB8w1057",
+      "file_name": "ValbB8w1057.npz",
+      "file_size_bytes": 277852
+    },
+    {
+      "cell_id": "ValbB8w1058",
+      "file_name": "ValbB8w1058.npz",
+      "file_size_bytes": 299568
+    },
+    {
+      "cell_id": "ValbB8w1061",
+      "file_name": "ValbB8w1061.npz",
+      "file_size_bytes": 270264
+    },
+    {
+      "cell_id": "ValbB8w1062",
+      "file_name": "ValbB8w1062.npz",
+      "file_size_bytes": 285878
+    },
+    {
+      "cell_id": "ValbB8w1063",
+      "file_name": "ValbB8w1063.npz",
+      "file_size_bytes": 302604
+    },
+    {
+      "cell_id": "ValbB8w1064",
+      "file_name": "ValbB8w1064.npz",
+      "file_size_bytes": 302511
+    },
+    {
+      "cell_id": "ValbB8w1065",
+      "file_name": "ValbB8w1065.npz",
+      "file_size_bytes": 279832
+    },
+    {
+      "cell_id": "ValbB8w1066",
+      "file_name": "ValbB8w1066.npz",
+      "file_size_bytes": 274869
+    },
+    {
+      "cell_id": "ValbB8w1067",
+      "file_name": "ValbB8w1067.npz",
+      "file_size_bytes": 277219
+    },
+    {
+      "cell_id": "ValbB8w1068",
+      "file_name": "ValbB8w1068.npz",
+      "file_size_bytes": 281128
+    },
+    {
+      "cell_id": "ValbB8w1069",
+      "file_name": "ValbB8w1069.npz",
+      "file_size_bytes": 290822
+    },
+    {
+      "cell_id": "ValbB8w1070",
+      "file_name": "ValbB8w1070.npz",
+      "file_size_bytes": 283623
+    },
+    {
+      "cell_id": "ValbB8w1071",
+      "file_name": "ValbB8w1071.npz",
+      "file_size_bytes": 297401
+    },
+    {
+      "cell_id": "ValbB8w1072",
+      "file_name": "ValbB8w1072.npz",
+      "file_size_bytes": 270638
+    },
+    {
+      "cell_id": "ValbB8w1074",
+      "file_name": "ValbB8w1074.npz",
+      "file_size_bytes": 281650
+    },
+    {
+      "cell_id": "ValbB8w1075",
+      "file_name": "ValbB8w1075.npz",
+      "file_size_bytes": 288566
+    },
+    {
+      "cell_id": "ValbB8w1076",
+      "file_name": "ValbB8w1076.npz",
+      "file_size_bytes": 263322
+    },
+    {
+      "cell_id": "ValbB8w1077",
+      "file_name": "ValbB8w1077.npz",
+      "file_size_bytes": 277378
+    },
+    {
+      "cell_id": "ValbB8w1078",
+      "file_name": "ValbB8w1078.npz",
+      "file_size_bytes": 273805
+    },
+    {
+      "cell_id": "ValbB8w1079",
+      "file_name": "ValbB8w1079.npz",
+      "file_size_bytes": 269972
+    },
+    {
+      "cell_id": "ValbB8w1080",
+      "file_name": "ValbB8w1080.npz",
+      "file_size_bytes": 282371
+    },
+    {
+      "cell_id": "ValbB8w1081",
+      "file_name": "ValbB8w1081.npz",
+      "file_size_bytes": 266351
+    },
+    {
+      "cell_id": "ValbB8w1082",
+      "file_name": "ValbB8w1082.npz",
+      "file_size_bytes": 282539
+    },
+    {
+      "cell_id": "ValbB8w1083",
+      "file_name": "ValbB8w1083.npz",
+      "file_size_bytes": 291152
+    },
+    {
+      "cell_id": "ValbB8w1084",
+      "file_name": "ValbB8w1084.npz",
+      "file_size_bytes": 285368
+    },
+    {
+      "cell_id": "ValbB8w1085",
+      "file_name": "ValbB8w1085.npz",
+      "file_size_bytes": 289424
+    },
+    {
+      "cell_id": "ValbB8w1086",
+      "file_name": "ValbB8w1086.npz",
+      "file_size_bytes": 279362
+    },
+    {
+      "cell_id": "ValbB8w1087",
+      "file_name": "ValbB8w1087.npz",
+      "file_size_bytes": 268385
+    },
+    {
+      "cell_id": "ValbB8w1088",
+      "file_name": "ValbB8w1088.npz",
+      "file_size_bytes": 300611
+    },
+    {
+      "cell_id": "ValbB8w1089",
+      "file_name": "ValbB8w1089.npz",
+      "file_size_bytes": 297577
+    },
+    {
+      "cell_id": "ValbB8w1090",
+      "file_name": "ValbB8w1090.npz",
+      "file_size_bytes": 280195
+    },
+    {
+      "cell_id": "ValbB8w1091",
+      "file_name": "ValbB8w1091.npz",
+      "file_size_bytes": 290663
+    },
+    {
+      "cell_id": "ValbB8w1092",
+      "file_name": "ValbB8w1092.npz",
+      "file_size_bytes": 291805
+    },
+    {
+      "cell_id": "ValbB8w1093",
+      "file_name": "ValbB8w1093.npz",
+      "file_size_bytes": 290594
+    },
+    {
+      "cell_id": "ValbB8w1094",
+      "file_name": "ValbB8w1094.npz",
+      "file_size_bytes": 287237
+    },
+    {
+      "cell_id": "ValbB8w1095",
+      "file_name": "ValbB8w1095.npz",
+      "file_size_bytes": 274581
+    },
+    {
+      "cell_id": "ValbB8w1096",
+      "file_name": "ValbB8w1096.npz",
+      "file_size_bytes": 271103
+    },
+    {
+      "cell_id": "ValbB8w1097",
+      "file_name": "ValbB8w1097.npz",
+      "file_size_bytes": 295456
+    },
+    {
+      "cell_id": "ValbB8w1098",
+      "file_name": "ValbB8w1098.npz",
+      "file_size_bytes": 276199
+    },
+    {
+      "cell_id": "ValbB8w1099",
+      "file_name": "ValbB8w1099.npz",
+      "file_size_bytes": 268890
+    },
+    {
+      "cell_id": "ValbB8w1100",
+      "file_name": "ValbB8w1100.npz",
+      "file_size_bytes": 265214
+    },
+    {
+      "cell_id": "ValbB8w1101",
+      "file_name": "ValbB8w1101.npz",
+      "file_size_bytes": 286413
+    },
+    {
+      "cell_id": "ValbB8w1102",
+      "file_name": "ValbB8w1102.npz",
+      "file_size_bytes": 286659
+    },
+    {
+      "cell_id": "ValbB8w1103",
+      "file_name": "ValbB8w1103.npz",
+      "file_size_bytes": 268438
+    },
+    {
+      "cell_id": "ValbB8w1104",
+      "file_name": "ValbB8w1104.npz",
+      "file_size_bytes": 288459
+    },
+    {
+      "cell_id": "ValbB8w1105",
+      "file_name": "ValbB8w1105.npz",
+      "file_size_bytes": 281984
+    },
+    {
+      "cell_id": "ValbB8w1106",
+      "file_name": "ValbB8w1106.npz",
+      "file_size_bytes": 280900
+    },
+    {
+      "cell_id": "ValbB8w1107",
+      "file_name": "ValbB8w1107.npz",
+      "file_size_bytes": 263404
+    },
+    {
+      "cell_id": "ValbB8w1108",
+      "file_name": "ValbB8w1108.npz",
+      "file_size_bytes": 286854
+    },
+    {
+      "cell_id": "ValbB8w1109",
+      "file_name": "ValbB8w1109.npz",
+      "file_size_bytes": 287062
+    },
+    {
+      "cell_id": "ValbB8w1110",
+      "file_name": "ValbB8w1110.npz",
+      "file_size_bytes": 281628
+    },
+    {
+      "cell_id": "ValbB8w1111",
+      "file_name": "ValbB8w1111.npz",
+      "file_size_bytes": 291857
+    },
+    {
+      "cell_id": "ValbB8w1112",
+      "file_name": "ValbB8w1112.npz",
+      "file_size_bytes": 286302
+    },
+    {
+      "cell_id": "ValbB8w1114",
+      "file_name": "ValbB8w1114.npz",
+      "file_size_bytes": 293125
+    },
+    {
+      "cell_id": "ValbB8w1115",
+      "file_name": "ValbB8w1115.npz",
+      "file_size_bytes": 282487
+    },
+    {
+      "cell_id": "ValbB8w1116",
+      "file_name": "ValbB8w1116.npz",
+      "file_size_bytes": 290955
+    },
+    {
+      "cell_id": "ValbB8w1117",
+      "file_name": "ValbB8w1117.npz",
+      "file_size_bytes": 293574
+    },
+    {
+      "cell_id": "ValbB8w1118",
+      "file_name": "ValbB8w1118.npz",
+      "file_size_bytes": 283597
+    },
+    {
+      "cell_id": "ValbB8w1119",
+      "file_name": "ValbB8w1119.npz",
+      "file_size_bytes": 278276
+    },
+    {
+      "cell_id": "ValbB8w1120",
+      "file_name": "ValbB8w1120.npz",
+      "file_size_bytes": 268478
+    },
+    {
+      "cell_id": "ValbB8w1121",
+      "file_name": "ValbB8w1121.npz",
+      "file_size_bytes": 274026
+    },
+    {
+      "cell_id": "ValbB8w1122",
+      "file_name": "ValbB8w1122.npz",
+      "file_size_bytes": 286570
+    },
+    {
+      "cell_id": "ValbB8w1123",
+      "file_name": "ValbB8w1123.npz",
+      "file_size_bytes": 292889
+    },
+    {
+      "cell_id": "ValbB8w1124",
+      "file_name": "ValbB8w1124.npz",
+      "file_size_bytes": 300919
+    },
+    {
+      "cell_id": "ValbB8w1125",
+      "file_name": "ValbB8w1125.npz",
+      "file_size_bytes": 291761
+    },
+    {
+      "cell_id": "ValbB8w1126",
+      "file_name": "ValbB8w1126.npz",
+      "file_size_bytes": 289706
+    },
+    {
+      "cell_id": "ValbB8w1127",
+      "file_name": "ValbB8w1127.npz",
+      "file_size_bytes": 281567
+    },
+    {
+      "cell_id": "ValbB8w1128",
+      "file_name": "ValbB8w1128.npz",
+      "file_size_bytes": 298961
+    },
+    {
+      "cell_id": "ValbB8w1129",
+      "file_name": "ValbB8w1129.npz",
+      "file_size_bytes": 294679
+    },
+    {
+      "cell_id": "ValbB8w1130",
+      "file_name": "ValbB8w1130.npz",
+      "file_size_bytes": 279938
+    },
+    {
+      "cell_id": "ValbB8w1131",
+      "file_name": "ValbB8w1131.npz",
+      "file_size_bytes": 288987
+    },
+    {
+      "cell_id": "ValbB8w1132",
+      "file_name": "ValbB8w1132.npz",
+      "file_size_bytes": 273066
+    },
+    {
+      "cell_id": "ValbB8w1133",
+      "file_name": "ValbB8w1133.npz",
+      "file_size_bytes": 284410
+    },
+    {
+      "cell_id": "ValbB8w1134",
+      "file_name": "ValbB8w1134.npz",
+      "file_size_bytes": 298406
+    },
+    {
+      "cell_id": "ValbB8w1135",
+      "file_name": "ValbB8w1135.npz",
+      "file_size_bytes": 268139
+    },
+    {
+      "cell_id": "ValbB8w1136",
+      "file_name": "ValbB8w1136.npz",
+      "file_size_bytes": 290041
+    },
+    {
+      "cell_id": "ValbB8w1138",
+      "file_name": "ValbB8w1138.npz",
+      "file_size_bytes": 297760
+    },
+    {
+      "cell_id": "ValbB8w1139",
+      "file_name": "ValbB8w1139.npz",
+      "file_size_bytes": 292872
+    },
+    {
+      "cell_id": "ValbB8w1140",
+      "file_name": "ValbB8w1140.npz",
+      "file_size_bytes": 293257
+    },
+    {
+      "cell_id": "ValbB8w1141",
+      "file_name": "ValbB8w1141.npz",
+      "file_size_bytes": 287646
+    },
+    {
+      "cell_id": "ValbB8w1142",
+      "file_name": "ValbB8w1142.npz",
+      "file_size_bytes": 296144
+    },
+    {
+      "cell_id": "ValbB8w1143",
+      "file_name": "ValbB8w1143.npz",
+      "file_size_bytes": 288956
+    },
+    {
+      "cell_id": "ValbB8w1144",
+      "file_name": "ValbB8w1144.npz",
+      "file_size_bytes": 302236
+    },
+    {
+      "cell_id": "ValbB8w1146",
+      "file_name": "ValbB8w1146.npz",
+      "file_size_bytes": 296677
+    },
+    {
+      "cell_id": "ValbB8w1147",
+      "file_name": "ValbB8w1147.npz",
+      "file_size_bytes": 303978
+    },
+    {
+      "cell_id": "ValbB8w1150",
+      "file_name": "ValbB8w1150.npz",
+      "file_size_bytes": 296755
+    },
+    {
+      "cell_id": "ValbB8w1152",
+      "file_name": "ValbB8w1152.npz",
+      "file_size_bytes": 305826
+    },
+    {
+      "cell_id": "ValbB8w1154",
+      "file_name": "ValbB8w1154.npz",
+      "file_size_bytes": 296522
+    },
+    {
+      "cell_id": "ValbB8w1155",
+      "file_name": "ValbB8w1155.npz",
+      "file_size_bytes": 296509
+    },
+    {
+      "cell_id": "ValbB8w1157",
+      "file_name": "ValbB8w1157.npz",
+      "file_size_bytes": 298686
+    },
+    {
+      "cell_id": "ValbB8w1158",
+      "file_name": "ValbB8w1158.npz",
+      "file_size_bytes": 297901
+    },
+    {
+      "cell_id": "ValbB8w1159",
+      "file_name": "ValbB8w1159.npz",
+      "file_size_bytes": 292377
+    },
+    {
+      "cell_id": "ValbB8w1160",
+      "file_name": "ValbB8w1160.npz",
+      "file_size_bytes": 296379
+    },
+    {
+      "cell_id": "ValbB8w1165",
+      "file_name": "ValbB8w1165.npz",
+      "file_size_bytes": 293000
+    },
+    {
+      "cell_id": "ValbB8w1167",
+      "file_name": "ValbB8w1167.npz",
+      "file_size_bytes": 292973
+    },
+    {
+      "cell_id": "ValbB8w1168",
+      "file_name": "ValbB8w1168.npz",
+      "file_size_bytes": 276831
+    },
+    {
+      "cell_id": "ValbB8w1173",
+      "file_name": "ValbB8w1173.npz",
+      "file_size_bytes": 280515
+    },
+    {
+      "cell_id": "ValbB8w1174",
+      "file_name": "ValbB8w1174.npz",
+      "file_size_bytes": 296401
+    },
+    {
+      "cell_id": "ValbB8w1176",
+      "file_name": "ValbB8w1176.npz",
+      "file_size_bytes": 295159
+    },
+    {
+      "cell_id": "ValbB8w1177",
+      "file_name": "ValbB8w1177.npz",
+      "file_size_bytes": 291531
+    },
+    {
+      "cell_id": "ValbB8w1179",
+      "file_name": "ValbB8w1179.npz",
+      "file_size_bytes": 285156
+    },
+    {
+      "cell_id": "ValbB8w1180",
+      "file_name": "ValbB8w1180.npz",
+      "file_size_bytes": 298280
+    },
+    {
+      "cell_id": "ValbB8w1181",
+      "file_name": "ValbB8w1181.npz",
+      "file_size_bytes": 303503
+    },
+    {
+      "cell_id": "ValbB8w1183",
+      "file_name": "ValbB8w1183.npz",
+      "file_size_bytes": 299253
+    },
+    {
+      "cell_id": "ValbB8w1184",
+      "file_name": "ValbB8w1184.npz",
+      "file_size_bytes": 280376
+    },
+    {
+      "cell_id": "ValbB8w1185",
+      "file_name": "ValbB8w1185.npz",
+      "file_size_bytes": 296305
+    },
+    {
+      "cell_id": "ValbB8w1186",
+      "file_name": "ValbB8w1186.npz",
+      "file_size_bytes": 293137
+    },
+    {
+      "cell_id": "ValbB8w1187",
+      "file_name": "ValbB8w1187.npz",
+      "file_size_bytes": 301803
+    },
+    {
+      "cell_id": "ValbB8w1188",
+      "file_name": "ValbB8w1188.npz",
+      "file_size_bytes": 291887
+    },
+    {
+      "cell_id": "ValbB8w1189",
+      "file_name": "ValbB8w1189.npz",
+      "file_size_bytes": 296422
+    },
+    {
+      "cell_id": "ValbB8w1190",
+      "file_name": "ValbB8w1190.npz",
+      "file_size_bytes": 314086
+    },
+    {
+      "cell_id": "ValbB8w1191",
+      "file_name": "ValbB8w1191.npz",
+      "file_size_bytes": 308744
+    },
+    {
+      "cell_id": "ValbB8w1192",
+      "file_name": "ValbB8w1192.npz",
+      "file_size_bytes": 294993
+    }
+  ]
+}
